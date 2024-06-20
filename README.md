@@ -34,3 +34,11 @@ from the graph of the analysis results above, a low model loss value of 0.0489 i
 </p>
 
 and from the graph of the analysis results above, a high model accuracy value of 96.67% is obtained.
+
+## Contributors
+The Machine Learning team is responsible for preparing the dataset used, preprocessing the data, building the model, evaluating the model, and storing the model in TFJS for deployment.
+
+The Machine Learning team consists of:
+1. Anggie Alnurin Prasetya - M011D4KX2154
+2. Anindya Nitisari - M011D4KX2156
+3. Tiara Shafadiva Maharani - M227D4KX1860
