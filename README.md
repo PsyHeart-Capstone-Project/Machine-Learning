@@ -27,6 +27,7 @@ Then the classification based on the above genres is combined with the classific
 
 The model used in this project is Dense Neural Network or Multi-Layer Perceptron (MLP). This model was chosen because it has the lowest loss and highest accuracy among other models.
 
+## Result
 The modeling results can be seen below:
 <p align="center">
   <img src="https://github.com/PsyHeart-Capstone-Project/Machine-Learning/assets/159974285/935f8e7c-ce65-4ab7-9c5c-2aee3e51497f" alt="Loss Graph">
