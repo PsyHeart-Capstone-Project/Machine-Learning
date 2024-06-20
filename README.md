@@ -47,4 +47,4 @@ The Machine Learning team is responsible for preparing the dataset used, preproc
 The Machine Learning team consists of:
 1. [Anggie Alnurin Prasetya](https://github.com/anggiealnrn27) - M011D4KX2154
 2. [Anindya Nitisari](https://github.com/anindyantsr) - M011D4KX2156
-3. [Tiara Shafadiva](https://github.com/tirshaf) - M227D4KX1860
+3. [Tiara Shafadiva Maharani](https://github.com/tirshaf) - M227D4KX1860
